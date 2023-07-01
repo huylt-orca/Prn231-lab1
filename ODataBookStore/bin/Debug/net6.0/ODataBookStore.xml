@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ODataBookStore</name>
+    </assembly>
+    <members>
+        <member name="M:ODataBookStore.Controllers.UserController.testAdmin">
+            <summary>
+            Test Admin 
+            </summary>
+        </member>
+    </members>
+</doc>
